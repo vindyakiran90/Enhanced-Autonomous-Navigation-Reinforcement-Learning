@@ -305,7 +305,7 @@ Additional theoretical foundations:
 
 ## Author
 
-**Vindya Jain**
+**Vindya Kiran Jain**
 
 ## Academic Purpose
 
