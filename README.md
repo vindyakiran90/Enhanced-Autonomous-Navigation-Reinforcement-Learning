@@ -182,7 +182,7 @@ The notebook contains visualizations for:
 ## Project Structure
 
 ```text
-Enhanced-Autonomous-Navigation-RL/
+Enhanced-Autonomous-Navigation-Reinforcement-Learning/
 │
 ├── Enhanced_Autonomous_Navigation_RL.ipynb
 │
