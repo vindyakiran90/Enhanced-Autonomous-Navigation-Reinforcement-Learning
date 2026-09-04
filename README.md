@@ -207,7 +207,7 @@ jupyter
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vindyakiran90/Enhanced-Autonomous-Navigation-RL.git
+git clone https://github.com/vindyakiran90/Enhanced-Autonomous-Navigation-Reinforcement-Learning.git
 ```
 
 ### 2. Open the Project Directory
@@ -219,7 +219,7 @@ cd Enhanced-Autonomous-Navigation-RL
 ### 3. Install the Required Libraries
 
 ```bash
-pip install numpy pandas matplotlib scikit-learn tensorflow jupyter
+pip install numpy pandas matplotlib scikit-learn torch jupyter
 ```
 
 ### 4. Start Jupyter Notebook
