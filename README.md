@@ -194,12 +194,12 @@ The Jupyter Notebook contains the complete implementation, experiments, results,
 ## Requirements
 
 ```text
-numpy
-pandas
-matplotlib
-scikit-learn
-tensorflow
-jupyter
+- Python 3.x
+- NumPy
+- Pandas
+- Matplotlib
+- PyTorch
+- Jupyter Notebook
 ```
 
 ## How to Run
@@ -213,13 +213,13 @@ git clone https://github.com/vindyakiran90/Enhanced-Autonomous-Navigation-Reinfo
 ### 2. Open the Project Directory
 
 ```bash
-cd Enhanced-Autonomous-Navigation-RL
+cd Enhanced-Autonomous-Navigation-Reinforcement-Learning
 ```
 
 ### 3. Install the Required Libraries
 
 ```bash
-pip install numpy pandas matplotlib scikit-learn torch jupyter
+pip install numpy pandas matplotlib torch jupyter
 ```
 
 ### 4. Start Jupyter Notebook
